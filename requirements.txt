@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+flask
+joblib
+matplotlib
+seaborn
+pyyaml
+google-cloud-storage==2.15.0
