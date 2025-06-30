@@ -60,7 +60,8 @@ workflows:
           requires:
             - checkout_code
       - deploy_to_gke:
-        requires:
-          - build_docker_image      
+          requires:
+            - build_docker_image
+     
 
 
